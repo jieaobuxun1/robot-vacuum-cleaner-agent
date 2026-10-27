@@ -1,0 +1,3 @@
+chat_model_name: qwen3.7-max
+embedding_model_name: text-embedding-v3
+embedding_batch_size: 10
